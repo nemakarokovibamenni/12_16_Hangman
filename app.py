@@ -4,6 +4,9 @@ countries = get_countries()
 
 print("Üdvözöllek az akasztófa játékban!")
 
+def easy():
+    life == 
+    
 
 def kezdes():
 
